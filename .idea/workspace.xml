@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="39d4f928-e6ed-4f44-bef4-1769da280011" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/phpunit.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/skeleton.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module/Core/src/Core/Entity/Pessoa/Pessoa.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module/Core/src/Core/Entity/Pessoa/Usuario.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module/Core/src/Core/Service/Pessoa/PessoaService.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/autoload/doctrine.local.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/autoload/doctrine.local.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/autoload/global.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/autoload/global.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/autoload/local.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/autoload/local.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/autoload/oauth2.local.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/autoload/oauth2.local.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/modules.config.old" beforeDir="false" afterPath="$PROJECT_DIR$/config/modules.config.old" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/modules.config.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/modules.config.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module/Aqilix/config/doctrine.oauth2.config.php" beforeDir="false" afterPath="$PROJECT_DIR$/module/Aqilix/config/doctrine.oauth2.config.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module/User/config/doctrine.config.php" beforeDir="false" afterPath="$PROJECT_DIR$/module/User/config/doctrine.config.php" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/squizlabs/php_codesniffer" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/phpunit" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/orm" />
+      <path value="$PROJECT_DIR$/vendor/seld/jsonlint" />
+      <path value="$PROJECT_DIR$/vendor/zfcampus/zf-oauth2" />
+      <path value="$PROJECT_DIR$/vendor/zfcampus/zf-deploy" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/dbal" />
+      <path value="$PROJECT_DIR$/vendor/justinrainbow/json-schema" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/doctrine-module" />
+      <path value="$PROJECT_DIR$/vendor/zfcampus/zf-development-mode" />
+      <path value="$PROJECT_DIR$/vendor/zfcampus/zf-apigility-admin" />
+      <path value="$PROJECT_DIR$/vendor/zendframework/zend-view" />
+      <path value="$PROJECT_DIR$/vendor/zendframework/zend-servicemanager" />
+      <path value="$PROJECT_DIR$/vendor/zfcampus/zf-composer-autoloading" />
+      <path value="$PROJECT_DIR$/vendor/psr/cache" />
+      <path value="$PROJECT_DIR$/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/vendor/psr/simple-cache" />
+      <path value="$PROJECT_DIR$/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/vendor/psr/link" />
+      <path value="$PROJECT_DIR$/vendor/gedmo/doctrine-extensions" />
+      <path value="$PROJECT_DIR$/vendor/zfr/zfr-cors" />
+      <path value="$PROJECT_DIR$/vendor/aqilix/doctrine-data-fixture-module" />
+      <path value="$PROJECT_DIR$/vendor/kherge/version" />
+      <path value="$PROJECT_DIR$/vendor/michelf/php-markdown" />
+      <path value="$PROJECT_DIR$/vendor/myclabs/deep-copy" />
+      <path value="$PROJECT_DIR$/vendor/phpspec/prophecy" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-token-stream" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-timer" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/phpunit-mock-objects" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-text-template" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-file-iterator" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-code-coverage" />
+      <path value="$PROJECT_DIR$/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/vendor/symfony/yaml" />
+      <path value="$PROJECT_DIR$/vendor/symfony/process" />
+      <path value="$PROJECT_DIR$/vendor/symfony/debug" />
+      <path value="$PROJECT_DIR$/vendor/bshaffer/oauth2-server-php" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/cache" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/event-manager" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/reflection" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/collections" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/annotations" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/common" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/data-fixtures" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/doctrine-orm-module" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/persistence" />
+      <path value="$PROJECT_DIR$/vendor/zfcampus/zf-apigility-documentation" />
+      <path value="$PROJECT_DIR$/vendor/zfcampus/zf-http-cache" />
+      <path value="$PROJECT_DIR$/vendor/zfcampus/zf-apigility-provider" />
+      <path value="$PROJECT_DIR$/vendor/zfcampus/zf-asset-manager" />
+      <path value="$PROJECT_DIR$/vendor/zfcampus/zf-versioning" />
+      <path value="$PROJECT_DIR$/vendor/zfcampus/zf-apigility" />
+      <path value="$PROJECT_DIR$/vendor/zfcampus/zf-configuration" />
+      <path value="$PROJECT_DIR$/vendor/zfcampus/zf-api-problem" />
+      <path value="$PROJECT_DIR$/vendor/zfcampus/zf-content-negotiation" />
+      <path value="$PROJECT_DIR$/vendor/zfcampus/zf-rest" />
+      <path value="$PROJECT_DIR$/vendor/zfcampus/zf-hal" />
+      <path value="$PROJECT_DIR$/vendor/zfcampus/zf-apigility-admin-ui" />
+      <path value="$PROJECT_DIR$/vendor/zfcampus/zf-content-validation" />
+      <path value="$PROJECT_DIR$/vendor/true/punycode" />
+      <path value="$PROJECT_DIR$/vendor/zfcampus/zf-console" />
+      <path value="$PROJECT_DIR$/vendor/zfcampus/zf-apigility-documentation-swagger" />
+      <path value="$PROJECT_DIR$/vendor/zfcampus/zf-rpc" />
+      <path value="$PROJECT_DIR$/vendor/zfcampus/zf-mvc-auth" />
+      <path value="$PROJECT_DIR$/vendor/paragonie/random_compat" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/version" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/recursion-context" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/global-state" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/object-enumerator" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/exporter" />
+      <path value="$PROJECT_DIR$/vendor/behat/transliterator" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/resource-operations" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/diff" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/comparator" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/code-unit-reverse-lookup" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/environment" />
+      <path value="$PROJECT_DIR$/vendor/webmozart/assert" />
+      <path value="$PROJECT_DIR$/vendor/chillerlan/php-qrcode" />
+      <path value="$PROJECT_DIR$/vendor/chillerlan/php-settings-container" />
+      <path value="$PROJECT_DIR$/vendor/herrera-io/phar-update" />
+      <path value="$PROJECT_DIR$/vendor/herrera-io/json" />
+      <path value="$PROJECT_DIR$/vendor/necromant2005/gearman-stats" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/type-resolver" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/reflection-docblock" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/reflection-common" />
+      <path value="$PROJECT_DIR$/vendor/zendframework/zend-http" />
+      <path value="$PROJECT_DIR$/vendor/zendframework/zend-config" />
+      <path value="$PROJECT_DIR$/vendor/zendframework/zend-test" />
+      <path value="$PROJECT_DIR$/vendor/zendframework/zend-eventmanager" />
+      <path value="$PROJECT_DIR$/vendor/zendframework/zend-mvc-console" />
+      <path value="$PROJECT_DIR$/vendor/zendframework/zend-log" />
+      <path value="$PROJECT_DIR$/vendor/zendframework/zend-mime" />
+      <path value="$PROJECT_DIR$/vendor/zendframework/zend-math" />
+      <path value="$PROJECT_DIR$/vendor/zendframework/zend-authentication" />
+      <path value="$PROJECT_DIR$/vendor/zendframework/zend-paginator" />
+      <path value="$PROJECT_DIR$/vendor/zendframework/zend-code" />
+      <path value="$PROJECT_DIR$/vendor/zendframework/zend-permissions-rbac" />
+      <path value="$PROJECT_DIR$/vendor/zendframework/zend-component-installer" />
+      <path value="$PROJECT_DIR$/vendor/zendframework/zend-router" />
+      <path value="$PROJECT_DIR$/vendor/zendframework/zend-db" />
+      <path value="$PROJECT_DIR$/vendor/zendframework/zend-crypt" />
+      <path value="$PROJECT_DIR$/vendor/zendframework/zend-permissions-acl" />
+      <path value="$PROJECT_DIR$/vendor/zendframework/zend-console" />
+      <path value="$PROJECT_DIR$/vendor/zendframework/zend-hydrator" />
+      <path value="$PROJECT_DIR$/vendor/zendframework/zend-i18n" />
+      <path value="$PROJECT_DIR$/vendor/zendframework/zend-form" />
+      <path value="$PROJECT_DIR$/vendor/zendframework/zend-json" />
+      <path value="$PROJECT_DIR$/vendor/zendframework/zend-mvc" />
+      <path value="$PROJECT_DIR$/vendor/zendframework/zend-uri" />
+      <path value="$PROJECT_DIR$/vendor/zendframework/zend-cache" />
+      <path value="$PROJECT_DIR$/vendor/zendframework/zend-mail" />
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/zendframework/zend-loader" />
+      <path value="$PROJECT_DIR$/vendor/zendframework/zend-debug" />
+      <path value="$PROJECT_DIR$/vendor/zendframework/zend-filter" />
+      <path value="$PROJECT_DIR$/vendor/zendframework/zend-text" />
+      <path value="$PROJECT_DIR$/vendor/zendframework/zend-validator" />
+      <path value="$PROJECT_DIR$/vendor/zendframework/zend-dom" />
+      <path value="$PROJECT_DIR$/vendor/zendframework/zend-inputfilter" />
+      <path value="$PROJECT_DIR$/vendor/zendframework/zend-escaper" />
+      <path value="$PROJECT_DIR$/vendor/zendframework/zend-modulemanager" />
+      <path value="$PROJECT_DIR$/vendor/zendframework/zend-stdlib" />
+      <path value="$PROJECT_DIR$/vendor/zendframework/zend-developer-tools" />
+      <path value="$PROJECT_DIR$/vendor/zendframework/zend-mvc-i18n" />
+      <path value="$PROJECT_DIR$/vendor/container-interop/container-interop" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1gTSgFsUyOTIx1yqFrZWN77Wxpa" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="DatabaseDriversLRU" value="postgresql" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../projreferencia/FrontArtista" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RunManager">
+    <configuration name="phpunit.xml.dist" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner scope="XML" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="39d4f928-e6ed-4f44-bef4-1769da280011" name="Default Changelist" comment="" />
+      <created>1598137198985</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598137198985</updated>
+      <workItem from="1598137201108" duration="121000" />
+      <workItem from="1598307059299" duration="1918000" />
+      <workItem from="1598466373932" duration="1393000" />
+      <workItem from="1598569290650" duration="2373000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="435" y="166" width="800" height="684" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1598466509001">
+      <screen x="0" y="27" width="1680" height="955" />
+    </state>
+    <state x="435" y="166" width="800" height="684" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.27.1680.955@0.27.1680.955" timestamp="1598466509001" />
+    <state x="623" y="262" width="424" height="491" key="FileChooserDialogImpl" timestamp="1598569876668">
+      <screen x="0" y="27" width="1680" height="955" />
+    </state>
+    <state x="623" y="262" width="424" height="491" key="FileChooserDialogImpl/0.27.1680.955@0.27.1680.955" timestamp="1598569876668" />
+    <state width="551" height="243" key="GridCell.Tab.0.bottom" timestamp="1598307429781">
+      <screen x="0" y="27" width="1680" height="955" />
+    </state>
+    <state width="551" height="243" key="GridCell.Tab.0.bottom/0.27.1680.955@0.27.1680.955" timestamp="1598307429781" />
+    <state width="551" height="243" key="GridCell.Tab.0.center" timestamp="1598307429781">
+      <screen x="0" y="27" width="1680" height="955" />
+    </state>
+    <state width="551" height="243" key="GridCell.Tab.0.center/0.27.1680.955@0.27.1680.955" timestamp="1598307429781" />
+    <state width="551" height="243" key="GridCell.Tab.0.left" timestamp="1598307429780">
+      <screen x="0" y="27" width="1680" height="955" />
+    </state>
+    <state width="551" height="243" key="GridCell.Tab.0.left/0.27.1680.955@0.27.1680.955" timestamp="1598307429780" />
+    <state width="551" height="243" key="GridCell.Tab.0.right" timestamp="1598307429781">
+      <screen x="0" y="27" width="1680" height="955" />
+    </state>
+    <state width="551" height="243" key="GridCell.Tab.0.right/0.27.1680.955@0.27.1680.955" timestamp="1598307429781" />
+    <state x="454" y="224" width="769" height="568" key="NewPhpClassDialog" timestamp="1598570627535">
+      <screen x="0" y="27" width="1680" height="955" />
+    </state>
+    <state x="454" y="224" width="769" height="568" key="NewPhpClassDialog/0.27.1680.955@0.27.1680.955" timestamp="1598570627535" />
+    <state x="681" y="193" width="490" height="602" key="RollbackChangesDialog" timestamp="1598308684680">
+      <screen x="0" y="27" width="1680" height="955" />
+    </state>
+    <state x="681" y="193" width="490" height="602" key="RollbackChangesDialog/0.27.1680.955@0.27.1680.955" timestamp="1598308684680" />
+    <state x="503" y="234" width="672" height="678" key="search.everywhere.popup" timestamp="1598570256428">
+      <screen x="0" y="27" width="1680" height="955" />
+    </state>
+    <state x="503" y="234" width="672" height="678" key="search.everywhere.popup/0.27.1680.955@0.27.1680.955" timestamp="1598570256428" />
+  </component>
+</project>

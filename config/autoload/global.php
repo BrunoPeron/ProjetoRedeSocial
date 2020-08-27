@@ -24,6 +24,8 @@ return array(
                 'User\\V1' => 'oauth2_pdo',
                 'Usuarios\\V1' => 'oauth2_pdo',
                 'Projeto\\V1' => 'oauth2_pdo',
+                'pessoa\\V1' => 'oauth2_pdo',
+                'Pessoa\\V1' => 'oauth2_pdo',
             ),
         ),
     ),
